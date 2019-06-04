@@ -10,7 +10,7 @@ import cucumber.api.junit.Cucumber;
 	@CucumberOptions(			
 			
 			monochrome = true,
-			dryRun = true,
+			//dryRun = true,
 			strict = true,
 			
 			features= {"src/test/resources/com/basic/GrofVuilOphaalFF"},
@@ -27,6 +27,6 @@ import cucumber.api.junit.Cucumber;
 	public class RunGrofvuilOphaalTest {
 
 }
-
+	
 
 
