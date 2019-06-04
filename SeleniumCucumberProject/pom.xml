@@ -51,10 +51,10 @@
 
 <!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
 <dependency>
-    <groupId>com.aventstack</groupId>
-    <artifactId>extentreports</artifactId>
-    <version>3.0.6</version>
-</dependency>
+    		<groupId>net.masterthought</groupId>
+    		<artifactId>cucumber-reporting</artifactId>
+    		<version>3.7.0</version>
+		</dependency>
 <!-- https://mvnrepository.com/artifact/io.cucumber/gherkin -->
 <dependency>
     <groupId>io.cucumber</groupId>
