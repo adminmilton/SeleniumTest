@@ -12,6 +12,8 @@ import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
@@ -56,8 +58,10 @@ public void gebruiker_klikt_op_knop_Regelen_zonder_inloggen() throws Throwable {
 
 @Then("^gebruiker kiest Aanhef dhr bij Aanhef$")
 public void gebruiker_kiest_Aanhef_dhr_bij_Aanhef() throws Throwable {
+	WebDriverWait wait = new WebDriverWait(driver, 60);// 1 minute 
+	wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//input[@value='dhr.'and @type='radio']")));
 	driver.findElement(By.xpath("//input[@value='dhr.'and @type='radio']")).click();
-    driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+   driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
     
 }
 
