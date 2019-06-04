@@ -397,36 +397,31 @@ formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_opent_de_website_amstelveen_nl()"
 });
 formatter.result({
-  "duration": 26885252407,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_klikt_op_icoon_Afval_en_grofvuil()"
 });
 formatter.result({
-  "duration": 3870322481,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_klikt_op_knop_Afspraak_maken_grofvuil_ophalen()"
 });
 formatter.result({
-  "duration": 1592158249,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_klikt_op_knop_Regelen_zonder_inloggen()"
 });
 formatter.result({
-  "duration": 11781588324,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_kiest_Aanhef_dhr_bij_Aanhef()"
 });
 formatter.result({
-  "duration": 1738197481,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -438,8 +433,7 @@ formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_veld_Voorletters(String)"
 });
 formatter.result({
-  "duration": 819411737,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -451,8 +445,7 @@ formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_veld_Voorvoegsel(String)"
 });
 formatter.result({
-  "duration": 652855512,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -464,8 +457,7 @@ formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_veld_Achternaam(String)"
 });
 formatter.result({
-  "duration": 680190859,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -477,8 +469,7 @@ formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_veld_Email(String)"
 });
 formatter.result({
-  "duration": 297062533,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -490,22 +481,19 @@ formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_veld_Telefoon(String)"
 });
 formatter.result({
-  "duration": 195669978,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_straat()"
 });
 formatter.result({
-  "duration": 1677446979,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_in_nummer()"
 });
 formatter.result({
-  "duration": 1612451335,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -517,71 +505,61 @@ formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_Eventuele_van_de_locatie(String)"
 });
 formatter.result({
-  "duration": 191765791,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_kiest_voor_bij_Uw_meldingSoort_afvalHuishoudelijk_Brandbaar()"
 });
 formatter.result({
-  "duration": 861995311,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_kiest_bij_Huishoudelijk_Brandbaar_voor_Papier_karton()"
 });
 formatter.result({
-  "duration": 779725340,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_selecteert_in_dropdownListKeuze_ophaaldatum_voor_een_datum()"
 });
 formatter.result({
-  "duration": 1542218266,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_selecteert_in_dropdownList_Omvang_in_kubieke_meter_voor_een_meter()"
 });
 formatter.result({
-  "duration": 1536233230,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vinkt_bij_Heeft_u_een_Amstelveenpas_voor_Nee()"
 });
 formatter.result({
-  "duration": 1838832611,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vinkt_bij_Mogen_wij_u_informeren_over_deze_zaak_voor_Nee()"
 });
 formatter.result({
-  "duration": 1827482151,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vinkt_aan_bij_ondertekening()"
 });
 formatter.result({
-  "duration": 1818758144,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_klikt_op_knop_Indienen()"
 });
 formatter.result({
-  "duration": 938169616,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.browser_suit_af()"
 });
 formatter.result({
-  "duration": 5140648888,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 35,
@@ -749,36 +727,31 @@ formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_opent_de_website_amstelveen_nl()"
 });
 formatter.result({
-  "duration": 25419403657,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_klikt_op_icoon_Afval_en_grofvuil()"
 });
 formatter.result({
-  "duration": 11059726880,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_klikt_op_knop_Afspraak_maken_grofvuil_ophalen()"
 });
 formatter.result({
-  "duration": 2704380202,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_klikt_op_knop_Regelen_zonder_inloggen()"
 });
 formatter.result({
-  "duration": 11294985084,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_kiest_Aanhef_dhr_bij_Aanhef()"
 });
 formatter.result({
-  "duration": 2503072565,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -790,8 +763,7 @@ formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_veld_Voorletters(String)"
 });
 formatter.result({
-  "duration": 690032506,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -803,8 +775,7 @@ formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_veld_Voorvoegsel(String)"
 });
 formatter.result({
-  "duration": 623179541,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -816,8 +787,7 @@ formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_veld_Achternaam(String)"
 });
 formatter.result({
-  "duration": 690977591,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -829,8 +799,7 @@ formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_veld_Email(String)"
 });
 formatter.result({
-  "duration": 318185920,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -842,22 +811,19 @@ formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_veld_Telefoon(String)"
 });
 formatter.result({
-  "duration": 264597750,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_straat()"
 });
 formatter.result({
-  "duration": 1420904540,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_in_nummer()"
 });
 formatter.result({
-  "duration": 774618936,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -869,71 +835,61 @@ formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_Eventuele_van_de_locatie(String)"
 });
 formatter.result({
-  "duration": 244627873,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_kiest_voor_bij_Uw_meldingSoort_afvalHuishoudelijk_Brandbaar()"
 });
 formatter.result({
-  "duration": 522203457,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_kiest_bij_Huishoudelijk_Brandbaar_voor_Papier_karton()"
 });
 formatter.result({
-  "duration": 477053465,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_selecteert_in_dropdownListKeuze_ophaaldatum_voor_een_datum()"
 });
 formatter.result({
-  "duration": 688156307,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_selecteert_in_dropdownList_Omvang_in_kubieke_meter_voor_een_meter()"
 });
 formatter.result({
-  "duration": 705518232,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vinkt_bij_Heeft_u_een_Amstelveenpas_voor_Nee()"
 });
 formatter.result({
-  "duration": 1351166480,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vinkt_bij_Mogen_wij_u_informeren_over_deze_zaak_voor_Nee()"
 });
 formatter.result({
-  "duration": 1427341163,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vinkt_aan_bij_ondertekening()"
 });
 formatter.result({
-  "duration": 1376231433,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_klikt_op_knop_Indienen()"
 });
 formatter.result({
-  "duration": 895657782,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.browser_suit_af()"
 });
 formatter.result({
-  "duration": 1853531080,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 36,
@@ -1101,36 +1057,31 @@ formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_opent_de_website_amstelveen_nl()"
 });
 formatter.result({
-  "duration": 23833300672,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_klikt_op_icoon_Afval_en_grofvuil()"
 });
 formatter.result({
-  "duration": 5099914327,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_klikt_op_knop_Afspraak_maken_grofvuil_ophalen()"
 });
 formatter.result({
-  "duration": 1810868968,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_klikt_op_knop_Regelen_zonder_inloggen()"
 });
 formatter.result({
-  "duration": 11772741604,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_kiest_Aanhef_dhr_bij_Aanhef()"
 });
 formatter.result({
-  "duration": 951594505,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -1142,8 +1093,7 @@ formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_veld_Voorletters(String)"
 });
 formatter.result({
-  "duration": 620623696,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -1155,8 +1105,7 @@ formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_veld_Voorvoegsel(String)"
 });
 formatter.result({
-  "duration": 870973807,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -1168,8 +1117,7 @@ formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_veld_Achternaam(String)"
 });
 formatter.result({
-  "duration": 665955681,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -1181,8 +1129,7 @@ formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_veld_Email(String)"
 });
 formatter.result({
-  "duration": 308863826,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -1194,22 +1141,19 @@ formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_veld_Telefoon(String)"
 });
 formatter.result({
-  "duration": 221450447,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_straat()"
 });
 formatter.result({
-  "duration": 1641506941,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_in_nummer()"
 });
 formatter.result({
-  "duration": 1499820460,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -1221,71 +1165,61 @@ formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_Eventuele_van_de_locatie(String)"
 });
 formatter.result({
-  "duration": 195045081,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_kiest_voor_bij_Uw_meldingSoort_afvalHuishoudelijk_Brandbaar()"
 });
 formatter.result({
-  "duration": 977065358,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_kiest_bij_Huishoudelijk_Brandbaar_voor_Papier_karton()"
 });
 formatter.result({
-  "duration": 802006012,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_selecteert_in_dropdownListKeuze_ophaaldatum_voor_een_datum()"
 });
 formatter.result({
-  "duration": 1525717602,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_selecteert_in_dropdownList_Omvang_in_kubieke_meter_voor_een_meter()"
 });
 formatter.result({
-  "duration": 1567355714,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vinkt_bij_Heeft_u_een_Amstelveenpas_voor_Nee()"
 });
 formatter.result({
-  "duration": 1831331588,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vinkt_bij_Mogen_wij_u_informeren_over_deze_zaak_voor_Nee()"
 });
 formatter.result({
-  "duration": 1811655092,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_vinkt_aan_bij_ondertekening()"
 });
 formatter.result({
-  "duration": 1766349536,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_klikt_op_knop_Indienen()"
 });
 formatter.result({
-  "duration": 895271139,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.browser_suit_af()"
 });
 formatter.result({
-  "duration": 1868812912,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 37,
@@ -1453,23 +1387,168 @@ formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_opent_de_website_amstelveen_nl()"
 });
 formatter.result({
-  "duration": 22906393917,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_klikt_op_icoon_Afval_en_grofvuil()"
 });
 formatter.result({
-  "duration": 4526273024,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_klikt_op_knop_Afspraak_maken_grofvuil_ophalen()"
 });
 formatter.result({
-  "duration": 1804259415,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GrofvuilOphaalStepDef.gebruiker_klikt_op_knop_Regelen_zonder_inloggen()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "GrofvuilOphaalStepDef.gebruiker_kiest_Aanhef_dhr_bij_Aanhef()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "T",
+      "offset": 16
+    }
+  ],
+  "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_veld_Voorletters(String)"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "de",
+      "offset": 16
+    }
+  ],
+  "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_veld_Voorvoegsel(String)"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Tester04",
+      "offset": 16
+    }
+  ],
+  "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_veld_Achternaam(String)"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "testet@amstelveen.com",
+      "offset": 16
+    }
+  ],
+  "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_veld_Email(String)"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "01435448",
+      "offset": 16
+    }
+  ],
+  "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_veld_Telefoon(String)"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_straat()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_in_nummer()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Test voor 2.13",
+      "offset": 29
+    }
+  ],
+  "location": "GrofvuilOphaalStepDef.gebruiker_vult_in_Eventuele_van_de_locatie(String)"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "GrofvuilOphaalStepDef.gebruiker_kiest_voor_bij_Uw_meldingSoort_afvalHuishoudelijk_Brandbaar()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "GrofvuilOphaalStepDef.gebruiker_kiest_bij_Huishoudelijk_Brandbaar_voor_Papier_karton()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "GrofvuilOphaalStepDef.gebruiker_selecteert_in_dropdownListKeuze_ophaaldatum_voor_een_datum()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "GrofvuilOphaalStepDef.gebruiker_selecteert_in_dropdownList_Omvang_in_kubieke_meter_voor_een_meter()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "GrofvuilOphaalStepDef.gebruiker_vinkt_bij_Heeft_u_een_Amstelveenpas_voor_Nee()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "GrofvuilOphaalStepDef.gebruiker_vinkt_bij_Mogen_wij_u_informeren_over_deze_zaak_voor_Nee()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "GrofvuilOphaalStepDef.gebruiker_vinkt_aan_bij_ondertekening()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "GrofvuilOphaalStepDef.gebruiker_klikt_op_knop_Indienen()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "GrofvuilOphaalStepDef.browser_suit_af()"
+});
+formatter.result({
+  "status": "skipped"
+});
 });
