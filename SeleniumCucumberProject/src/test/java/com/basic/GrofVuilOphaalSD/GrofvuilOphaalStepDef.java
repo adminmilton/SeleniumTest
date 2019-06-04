@@ -90,8 +90,7 @@ public void gebruiker_vult_in_veld_Email(String Email) throws Throwable {
 public void gebruiker_vult_in_veld_Telefoon(String Telefoon) throws Throwable {
 	driver.findElement(By.xpath("//fieldset[6]/div/div[6]/div/div/input")).sendKeys(Telefoon);
 	
-   //driver.quit();
-  //  driver = null;
+  
 }
 
 
