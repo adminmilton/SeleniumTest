@@ -18,10 +18,10 @@ import cucumber.api.junit.Cucumber;
 			glue= {"com.basic.GrofVuilOphaalSD"},
 			
 			plugin= {"pretty",
-		    	 "html:target/cucumber-htmlreport",
+		    	 "html:target/cucumber",
 		    	 "json:target/cucumber.json",
 				
-			
+		  
 			
 			}
 			)
