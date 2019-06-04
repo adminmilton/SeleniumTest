@@ -61,6 +61,14 @@
 <build>
 <plugins>
 <plugin>
+   <groupId>org.eclipse.hudson.tools</groupId>
+   <artifactId>maven-hpi-plugin</artifactId>
+   <!-- explicitly specifying the latest version here because one we get from
+    the parent POM tends to lag behind a bit -->
+    <version>3.0.3</version>
+ </plugin>
+
+<plugin>
 <groupId>org.apache.maven.plugins</groupId>
 <artifactId>maven-resources-plugin</artifactId>
 <version>3.1.0</version>

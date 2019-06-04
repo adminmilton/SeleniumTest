@@ -59,8 +59,8 @@ public void gebruiker_klikt_op_knop_Regelen_zonder_inloggen() throws Throwable {
 @Then("^gebruiker kiest Aanhef dhr bij Aanhef$")
 public void gebruiker_kiest_Aanhef_dhr_bij_Aanhef() throws Throwable {
 	WebDriverWait wait = new WebDriverWait(driver, 60);// 1 minute 
-	wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//input[@value='dhr.'and @type='radio']")));
-	driver.findElement(By.xpath("//input[@value='dhr.'and @type='radio']")).click();
+	wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("/html/body/div[1]/div[2]/main/div/div/div/div/div[2]/div/div/form/fieldset[6]/div/div[1]/fieldset/div/label[1]")));
+	driver.findElement(By.xpath("/html/body/div[1]/div[2]/main/div/div/div/div/div[2]/div/div/form/fieldset[6]/div/div[1]/fieldset/div/label[1]")).click();
    driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
     
 }
