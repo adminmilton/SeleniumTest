@@ -52,7 +52,7 @@ public void gebruiker_klikt_op_knop_Afspraak_maken_grofvuil_ophalen() throws Thr
 public void gebruiker_klikt_op_knop_Regelen_zonder_inloggen() throws Throwable {
 	driver.findElement(By.xpath("//a[contains(.,'Regelen zonder inloggen')]")).click();
     Thread.sleep(6000);
-
+    driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
     
 }
 
